@@ -1,4 +1,4 @@
-pyrogram
+pyrogram==0.15.1
 aiohttp
 requests
 youtube-dl
