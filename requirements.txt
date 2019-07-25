@@ -7,4 +7,4 @@ Pillow
 hachoir
 numpy
 beautifulsoup4
-pyrogram
+pyrogram==0.15.0
